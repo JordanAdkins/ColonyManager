@@ -1,6 +1,6 @@
 [![RimWorld 1.2](https://img.shields.io/badge/RimWorld-1.2-brightgreen.svg)](http://rimworldgame.com/)
 
-Colony Manager allows you to make colonists do the more tedious parts of managing a colony, making sure you're never out of vital resources again\*.
+Colony Manager can allows you to make colonists do the more tedious parts of managing a colony, making sure you're never out of vital resources again\*.
 
 ![Important](https://banners.karel-kroeze.nl/title/Important.png)
 
